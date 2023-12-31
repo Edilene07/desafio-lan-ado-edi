@@ -1,1 +1,2 @@
-console.log(" ollha mundo");
+let nome = "Edi"
+console.log(nome);
